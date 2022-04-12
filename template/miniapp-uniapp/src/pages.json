@@ -1,0 +1,19 @@
+{
+	"easycom": {
+		"^u-(.*)": "@/library/uview-uiv1/components/u-$1/u-$1.vue"
+	},
+	"pages": [
+		{
+			"path": "pages/files/index"
+		},
+		{
+			"path": "pages/me/index"
+		}
+	],
+	"globalStyle": {
+		"navigationBarTextStyle": "black",
+		"navigationBarTitleText": "DEMO",
+		"navigationBarBackgroundColor": "#F8F8F8",
+		"backgroundColor": "#F8F8F8"
+	}
+}

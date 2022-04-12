@@ -1,0 +1,25 @@
+{
+  "name": "template-vue-preset",
+  "version": "0.1.0",
+  "description": "create vue template based on vue preset",
+  "main": "prompts.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Gosixes/template-vue-preset.git"
+  },
+  "keywords": [
+    "vue",
+    "template",
+    "preset",
+    "uniapp"
+  ],
+  "bugs": {
+    "url": "https://github.com/Gosixes/template-vue-preset/issues"
+  },
+  "homepage": "https://github.com/Gosixes/template-vue-preset#README",
+  "license": "MIT"
+}
